@@ -1,0 +1,21 @@
+{
+  "server": [
+    {
+      "getname": "base",
+      "appname": "Base-Lemon",
+      "version": "1.0",
+      "info": "A non-functional application for example",
+      "link": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/APK_format_icon.png/600px-APK_format_icon.png",
+      "file": "icon.png"
+    },
+        {
+      "getname": "html-template",
+      "appname": "html-template",
+      "version": "1.0",
+      "info": "Simples templates in html",
+      "link": "//github.com/markyndev/html-template/archive/master.zip",
+      "file": "master.zip"
+    }
+
+  ]
+}
